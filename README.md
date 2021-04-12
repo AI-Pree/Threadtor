@@ -1,2 +1,2 @@
 # Threadtor
-Threadtor is a library that provides interface for creating  BSP focused applications and algorithms.
+Threadtor is a library that provides interface for creating  BSP(Bulk Synchronous Parallel) focused applications and algorithms.
